@@ -8,3 +8,5 @@ import numpy as np
 from PIL import Image
 import matplotlib
 print(torch.__version__)
+
+####version2
